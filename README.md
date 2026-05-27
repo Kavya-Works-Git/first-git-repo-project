@@ -1,2 +1,3 @@
 # first-git-repo-project
-this is my first git repo
+This is my first git repo
+Author- kavya
